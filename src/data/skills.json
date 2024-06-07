@@ -1,0 +1,30 @@
+[
+  {
+    "title": "HTML",
+    "imageSrc": "skills/html.png"
+  },
+  {
+    "title": "CSS",
+    "imageSrc": "skills/css.png"
+  },
+  {
+    "title": "React",
+    "imageSrc": "skills/react.png"
+  },
+  {
+    "title": "Redux-Toolkit",
+    "imageSrc": "skills/redux.png"
+  },
+  {
+    "title": "Tailwind-css",
+    "imageSrc": "skills/tailwind.png"
+  },
+  {
+    "title": "Bootstap",
+    "imageSrc": "skills/bootstrap.png"
+  },
+  {
+    "title": "Github",
+    "imageSrc": "skills/github.png"
+  }
+]

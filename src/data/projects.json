@@ -1,0 +1,26 @@
+[
+  {
+    "title": "Cryptocurrency App: ",
+    "imageSrc": "projects/project.png",
+    "description": "Built a React app for coin listings, exchanges, and detailed views using Chakra UI.",
+    "skills": ["ReactJs:"],
+    "demo": "https://crypto-website-red.vercel.app/",
+    "source": "https://github.com/jamshed-shaikh/crypto-website"
+  },
+  {
+    "title": "Expense Tracker App:",
+    "imageSrc": "projects/project.png",
+    "description": "Created a React app for tracking expenses with balance, summaries, and transaction management.",
+    "skills": ["ReactJs:"],
+    "demo": "https://expense-tracker-tan-eta.vercel.app/",
+    "source": "https://github.com/jamshed-shaikh/Expense-Tracker"
+  },
+  {
+    "title": "E-commerce App: ",
+    "imageSrc": "projects/project.png",
+    "description": " Created a React e-commerce app with listings, search, detailed views, and a cart..",
+    "skills": ["ReactJs:"],
+    "demo": "https://e-commerce-cart-pi.vercel.app/",
+    "source": "https://github.com/jamshed-shaikh/E-commerce-cart"
+  }
+]
